@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! My name is Ray and I'm a software developer from China.</h2>
 
+![Image](./public/IamProgrammer!.png)
+
 ###
 
 <div align="center">
@@ -56,4 +58,6 @@
 
 <img src="https://raw.githubusercontent.com/RayGuo-ergou/RayGuo-ergou/output/snake.svg" alt="Snake animation" />
 
-###
+### References
+
+- Icon credits to: [SAWARATSUKI](https://github.com/SAWARATSUKI/ServiceLogos)
